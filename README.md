@@ -1,4 +1,4 @@
-# Spring Boot & React Template for User Authentication and Authorization
+# Spring Boot & React Template (사용자 SNS 인증 - kakao)
 
 ## 프로젝트 개요
 
